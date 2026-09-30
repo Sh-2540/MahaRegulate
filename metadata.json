@@ -1,0 +1,6 @@
+{
+  "name": "MahaRegulate — Maharashtra Industrial Regulatory Intelligence",
+  "description": "An explainable regulatory intelligence, compliance orchestration, and legal-clock tracking platform designed to work alongside Maharashtra's existing industrial approval ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
